@@ -8,4 +8,4 @@ wb_wr_test: Configura el GPIO en all outputs y escribe datos en el registro OUT 
 wb_rw_test: Configura el GPIO en all inputs y escribe datos en el las entradas del GPIO para luego leer el registro IN.
 
 Para correr estos test, debe irse al link de EDA. Luego, el Tools and simulators/Run options, debe utilizar el comando +UVM_TESTNAME=... 
-desea probar.
+para indicar que test desea probar.
