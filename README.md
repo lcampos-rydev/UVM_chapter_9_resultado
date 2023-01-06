@@ -8,9 +8,10 @@
 
 ## Tests
 
-wb_wr_test: 
+######  wb_wr_test: 
 > Configura el GPIO en all outputs y escribe datos en el registro OUT para observarlos en la salidas del GPIO. 
-wb_rw_test: 
+
+###### wb_rw_test: 
 > Configura el GPIO en all inputs y escribe datos en el las entradas del GPIO para luego leer el registro IN.
 
 ---
