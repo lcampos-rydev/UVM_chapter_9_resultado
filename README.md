@@ -17,5 +17,6 @@
 ---
 ## Correr los tests
 
-Para correr estos test, debe irse al **link de EDA**. Luego, el Tools and **simulators/Run options**, debe utilizar el comando **+UVM_TESTNAME=...**
-para indicar que test desea probar.
+Para correr estos test, debe irse al **link de EDA**. Luego, el **Tools and simulators/Run options**, debe utilizar el comando **+UVM_TESTNAME=...**
+para indicar que test desea probar. Ejemplo: +UVM_TESTNAME=wb_rw_test
+
